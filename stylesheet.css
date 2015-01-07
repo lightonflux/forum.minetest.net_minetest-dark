@@ -27,7 +27,7 @@ body {
 	/* Text-Sizing with ems: http://www.clagnut.com/blog/348/ */
 	//font-family: Verdana, Helvetica, Arial, sans-serif;
 	color: #828282;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	background-image: url(http://minetest.net//lib/tpl/minetest3/images/body_bg.png);
 	/*font-size: 62.5%;			 This sets the default font size to be equivalent to 10px */
 	font-size: 75%;
@@ -121,7 +121,7 @@ p.right {
 	max-width: 1150px;
 	width:95%;
 	box-shadow: 0 0 58px 2px #CCC;
-	background: #FFFFFF;
+	background: #2e3436;
 	border-left: 1px solid #ccc;
 	border-right: 1px solid #ccc;
 }
@@ -204,9 +204,9 @@ a#logo:hover {
 /* Round cornered boxes and backgrounds
 ---------------------------------------- */
 .headerbar {
-	background: linear-gradient(#D4D4D4 0%, #FFFFFF 25%);
-	background: -moz-linear-gradient(#D4D4D4 0%, #FFFFFF 25%);
-	background: -webkit-linear-gradient(#D4D4D4 0%, #FFFFFF 25%);
+	background: linear-gradient(#D4D4D4 0%, #2e3436 25%);
+	background: -moz-linear-gradient(#D4D4D4 0%, #2e3436 25%);
+	background: -webkit-linear-gradient(#D4D4D4 0%, #2e3436 25%);
 	color: #323232;
 	//margin-bottom: 4px;
 	padding: 0 5px;
@@ -419,7 +419,7 @@ table.table1 tbody th {
 	border-bottom: 1px solid #000000;
 	text-align: left;
 	color: #333333;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 /* Specific column styles */
@@ -585,7 +585,7 @@ li.pagination {
 }
 
 .row .pagination span a, li.pagination span a {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 .row .pagination span a:hover, li.pagination span a:hover {
@@ -946,7 +946,7 @@ padding-top: 3px; /*C55*/
 ul.topiclist dd {
 	display: block;
 	float: left;
-	border-left: 1px solid #FFFFFF;
+	border-left: 1px solid #2e3436;
 	padding: 4px 0;
 }
 
@@ -1402,7 +1402,7 @@ blockquote.uncited {
 /* Code block */
 dl.codebox {
 	padding: 3px;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	border: 1px solid #d8d8d8;
 	font-size: 1em;
 }
@@ -1434,7 +1434,7 @@ dl.codebox code {
 	margin: 2px 0;
 }
 
-.syntaxbg		{ color: #FFFFFF; }
+.syntaxbg		{ color: #2e3436; }
 .syntaxcomment	{ color: #000000; }
 .syntaxdefault	{ color: #bcbcbc; }
 .syntaxhtml		{ color: #000000; }
@@ -1448,7 +1448,7 @@ dl.codebox code {
 	width: auto; 
 	margin: 5px 5px 5px 0;
 	padding: 6px;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	border: 1px dashed #d8d8d8;
 	clear: left;
 }
@@ -1604,7 +1604,7 @@ fieldset.polls dd input {
 fieldset.polls dd div {
 	text-align: right;
 	font-family: Arial, Helvetica, sans-serif;
-	color: #FFFFFF;
+	color: #2e3436;
 	font-weight: bold;
 	padding: 0 2px;
 	overflow: visible;
@@ -1945,7 +1945,7 @@ ul.cplist {
 #cp-main .pm-message {
 	border: 1px solid #e2e2e2;
 	margin: 10px 0;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	width: auto;
 	float: none;
 }
@@ -2161,7 +2161,7 @@ ul.cplist {
 }
 
 #cp-main .pm {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 #cp-main span.corners-top, #cp-menu span.corners-top {
@@ -2276,7 +2276,7 @@ ol.def-rules li {
 
 .pmlist li.pm_marked_colour, .pm_marked_colour {
 	padding: 0;
-	border: solid 3px #ffffff;
+	border: solid 3px #2e3436;
 	border-width: 0 3px;
 }
 
@@ -2313,7 +2313,7 @@ ol.def-rules li {
 	margin: 10px;
 	padding: 5px;
 	width: auto;
-	background: #FFFFFF;
+	background: #2e3436;
 	border: 1px solid #CCC;
 	text-align: center;
 }
@@ -2607,7 +2607,7 @@ fieldset.submit-buttons input {
 /* Input field styles
 ---------------------------------------- */
 .inputbox {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	border: 1px solid #c0c0c0;
 	color: #333333;
 	padding: 2px;
@@ -2964,7 +2964,7 @@ table.table1 tbody td {
 table.table1 tbody th {
 	border-bottom-color: #000000;
 	color: #333333;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 table.info tbody th {
@@ -3018,7 +3018,7 @@ dl.details dd {
 }
 
 .row .pagination span a, li.pagination span a {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 .row .pagination span a:hover, li.pagination span a:hover {
@@ -3305,7 +3305,7 @@ blockquote blockquote blockquote {
 
 /* Code block */
 dl.codebox {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	border-color: #C9D2D8;
 }
 
@@ -3327,7 +3327,7 @@ dl.codebox code {
 /* Attachments
 ----------------------------------------*/
 .attachbox {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	border-color:  #C9D2D8;
 }
 
@@ -3359,7 +3359,7 @@ dl.file dd {
 
 dl.thumbnail img {
 	border-color: #666666;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 dl.thumbnail dd {
@@ -3571,7 +3571,7 @@ ul.cplist {
 
 #cp-main .pm-message {
 	border-color: #DBDEE2;
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 /* CP tabbed menu
@@ -3657,7 +3657,7 @@ ul.cplist {
 }
 
 #cp-main .pm {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 }
 
 #cp-main span.corners-top, #cp-menu span.corners-top {
@@ -3733,7 +3733,7 @@ dl.mini dt {
 
 /* Avatar gallery */
 #gallery label {
-	background-color: #FFFFFF;
+	background-color: #2e3436;
 	border-color: #CCC;
 }
 
